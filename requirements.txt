@@ -1,0 +1,12 @@
+fastapi
+pydantic
+python-dotenv
+requests
+urllib3
+uvicorn
+websockets
+
+hf_hub_download
+facenet_pytorch
+git+https://github.com/Kartik-3004/facexformer.git
+
